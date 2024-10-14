@@ -31,7 +31,6 @@ class StudentProfile {
     }
 }
 
-
 // Main class
 public class FirstGroupExercise {
 
@@ -39,7 +38,7 @@ public class FirstGroupExercise {
        
         System.out.println("THREE AMAZING STUDENTS' PROFILE\n");
 
-        // Create an object
+        // Instantiate 
         StudentProfile StudentProfile1 = new StudentProfile("Angelica Ferriol", "BS Political Science", 1, "1-5");
         StudentProfile StudentProfile2 = new StudentProfile("Kurt Viray", "BS Information Technology", 1, "1-1");
         StudentProfile StudentProfile3 = new StudentProfile("Railley Nieles", "BS Aerospace Engineering", 3, "3-6");
@@ -64,6 +63,5 @@ public class FirstGroupExercise {
         StudentProfile1.displayStudentProfile();
         StudentProfile2.displayStudentProfile();
         StudentProfile3.displayStudentProfile();
-
     }
 }
