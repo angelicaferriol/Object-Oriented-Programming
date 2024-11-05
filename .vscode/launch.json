@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FactorialCalculator",
+            "request": "launch",
+            "mainClass": "FactorialCalculator",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "GradeCalculator",
+            "request": "launch",
+            "mainClass": "GradeCalculator",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "Relational",
+            "request": "launch",
+            "mainClass": "Relational",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "CommonElement",
+            "request": "launch",
+            "mainClass": "CommonElement",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOperators",
+            "request": "launch",
+            "mainClass": "BitwiseOperators",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "FactorialCalculation",
+            "request": "launch",
+            "mainClass": "FactorialCalculation",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "FirstGroupExercise",
+            "request": "launch",
+            "mainClass": "FirstGroupExercise",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "FizzBuzz",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "StdinI",
+            "request": "launch",
+            "mainClass": "StdinI",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "StdinII",
+            "request": "launch",
+            "mainClass": "StdinII",
+            "projectName": "OOP_5963f5b6"
+        },
+        {
+            "type": "java",
+            "name": "Welcome",
+            "request": "launch",
+            "mainClass": "Welcome",
+            "projectName": "OOP_5963f5b6"
+        }
+    ]
+}
